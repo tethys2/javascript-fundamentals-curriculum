@@ -11,7 +11,8 @@
       },
       "extensions": [
         "dbaeumer.vscode-eslint",
-        "ms-vsliveshare.vsliveshare"
+        "ms-vsliveshare.vsliveshare",
+        "formulahendry.code-runner"
       ]
     }
   }
